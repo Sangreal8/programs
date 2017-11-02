@@ -1,2 +1,2 @@
 # programs
-Programs both finished and non finished
+Programs both finished and unfinished
